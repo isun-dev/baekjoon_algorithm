@@ -1,0 +1,10 @@
+# Project exclude paths
+/out/
+/src/BubbleSortExam.java
+/src/InsertionSortExam.java
+/src/QuickSortExam2.java
+/src/QuickSortExam3.java
+/src/QuickSortExam.java
+/src/SelectionSortExam.java
+/.idea
+/DataStructure.iml
